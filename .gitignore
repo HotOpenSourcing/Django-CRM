@@ -17,7 +17,6 @@ static/CACHE
 staticfiles/
 celerybeat-schedule
 local_settings.py
-.env
 server.log
 dump.rdb
 
@@ -35,7 +34,6 @@ build/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -80,3 +78,5 @@ CLAUDE.md
 TODO.md
 .playwright-mcp
 .superpowers/
+config.bat
+node_modules
